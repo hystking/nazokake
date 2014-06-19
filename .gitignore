@@ -1,0 +1,6 @@
+aozora_model
+static
+*.pyc
+.DS_Store
+apikey.json
+
